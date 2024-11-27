@@ -11,9 +11,9 @@ To ensure that the Block SIM application works correctly, you must activate it b
 Make sure that only the chip provided is inserted into the correct slot. If this is not done, your private SIM card may be blocked, making it impossible to use.
 {% endhint %}
 
-When registering the device with the Android - Block SIM management mode, using one of the registration methods detailed in the User Manual, the Block SIM application will appear in the list of working applications, as shown in the image below, and after activating **\<NomeProduto>** , the Block SIM application will be installed automatically and will be available on the device:
+When registering the device with the Android - Block SIM management mode, using one of the registration methods detailed in the User Manual, the Block SIM application will appear in the list of working applications, as shown in the image below, and after activating **Datamob Enterprise** , the Block SIM application will be installed automatically and will be available on the device:
 
-When you open Block SIM, you will see the screen below with a status of Completed, as the **\<NomeProduto>** application has already been installed to communicate with Block SIM.
+When you open Block SIM, you will see the screen below with a status of Completed, as the **Datamob Enterprise** application has already been installed to communicate with Block SIM.
 
 3. After opening the Block SIM application, activate all the permissions on the screen as follows:
 

@@ -4,7 +4,7 @@ To block the CHIP using the Block SIM application, first access the administrato
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-02-15 173951.png" alt=""><figcaption></figcaption></figure>
 
-The Register new policy section o&#x66;**\<NomeProduto>** shows the details of the Policy Register.
+The Register new policy section o&#x66;**Datamob Enterprise** shows the details of the Policy Register.
 
 ### Android - Block SIM <a href="#heading-h.cdgsk02n5ih4" id="heading-h.cdgsk02n5ih4"></a>
 
